@@ -4,7 +4,7 @@
   "description": "testActionsRepo",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
     "lint": "eslint ."
   },
   "keywords": [],
