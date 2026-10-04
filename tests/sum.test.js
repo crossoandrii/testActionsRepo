@@ -7,3 +7,7 @@ test('2 + 3 = 5', () => {
 test('5 - 2 = 3', () => {
     expect(subtract(5, 2)).toBe(3);
 });
+
+test('10 - 4 = 6', () => {
+    expect(subtract(10, 4)).toBe(6);
+});
