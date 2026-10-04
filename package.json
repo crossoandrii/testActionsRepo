@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .", 
+    "build": "mkdir -p dist && echo '<h1>My CI/CD App Works!</h1>' > dist/index.html"
   },
   "keywords": [],
   "author": "",
